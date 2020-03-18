@@ -20,3 +20,15 @@ Como el proyecto se tiene visionado para ser mantenido a largo plazo es necesari
 | 6 | Sistema de backup y restore de datos, contenidos, aplicaciones, etc. |
 | 7 | Sistema de monitoreo de Operación |
 | 8 | Balanceadores de carga |
+
+## Requisitos no funcionales
+
+| QA | Descripción |
+| --- | --- |
+| Availability | Escalabilidad horizontal |
+| Availability | Tolerancia de 2000 usuarios concurrentes |
+| Performance | Tiempos de respuesta menor a 1 segundo |
+| Security | Técnicas de autenticación de 2 factores |
+
+## Diseño
+![Disenio](https://github.com/Mateo-RH/wordpress-aws-ha/blob/master/Imagenes/Dise%C3%B1o/Wordpress.png) 
