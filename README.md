@@ -1,4 +1,7 @@
 # Wordpress-aws-ha
+
+# Please check the wiki too
+
 Implementación **_High Availability_** de Wordpress en AWS
 
 ## Contexto
