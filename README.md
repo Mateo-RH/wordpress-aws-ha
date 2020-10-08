@@ -1,6 +1,6 @@
 # Wordpress-aws-ha
 
-# Please check the wiki too
+# Don't forget to check the [wiki](https://github.com/Mateo-RH/wordpress-aws-ha/wiki)
 
 Implementación **_High Availability_** de Wordpress en AWS
 
